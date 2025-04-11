@@ -1,0 +1,27 @@
+body{
+    background-color: #613659;
+}
+h1{
+    background-color: #C197D2;
+    border:5px double #211522;
+    padding:5px;
+    margin:20px;
+    text-align: center;
+    
+}
+#main{
+    background-color: #C197D2;
+    border:5px double #211522;
+    padding:5px;
+    margin:20px;
+    height:400px;
+    font-size: xx-large;
+}
+#a{
+    background-color: #D3B1C2;
+    border:5px double #211522;
+    padding:20px;
+    height:600px; 
+}
+
+    
