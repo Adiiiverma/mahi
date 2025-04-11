@@ -1,0 +1,44 @@
+#head1{
+    text-align: center;
+    border:5px solid black;
+    font-size:xx-large;
+    font-family: "courier new";
+    background-color: #75E6DA;
+}
+#a{
+    background-color: #75E6DA;
+    font-size: xx-large;
+    font-family:"cursive";
+    height:650px;
+    border:15px solid #05445E;
+}
+.diva{
+    background-color: #05445E;
+    border-radius: 10px;
+    height:200px;
+    width:200px;
+    display:inline-block;
+    position:relative;
+    border:3px double lightskyblue;
+    box-shadow: 3px 3px 3px 3px black;
+    color:lightgreen;
+    text-align:center;
+}
+#a1{
+    left:100px;
+}
+#a2{
+    top:100px;
+    left:150px;
+}
+#a3{
+    left:200px;
+}
+#a4{
+    top:100px;
+    left:250px;
+}
+#a5{
+    left:300px;
+}
+
