@@ -14,7 +14,8 @@ body{
     font-family:"cursive";
     height:650px;
     border:15px solid #05445E;
-    padding:10px;
+    padding-right: 40px;
+    padding-left: 30px;
 }
 .diva{
     background-color: #05445E;
@@ -29,20 +30,20 @@ body{
     text-align:center;
 }
 #a1{
-    left:80px;
+    left:600px;
 }
 #a2{
     top:100px;
-    left:100px;
+    left:80px;
 }
 #a3{
-    left:150px;
+    left:130px;
 }
 #a4{
     top:100px;
-    left:200px;
+    left:180px;
 }
 #a5{
-    left:250px;
+    left:230px;
 }
 
