@@ -1,3 +1,6 @@
+body{
+    overflow-x: hidden;
+}
 #head1{
     text-align: center;
     border:5px solid black;
@@ -25,20 +28,20 @@
     text-align:center;
 }
 #a1{
-    left:100px;
+    left:80px;
 }
 #a2{
     top:100px;
-    left:150px;
+    left:130px;
 }
 #a3{
-    left:200px;
+    left:180px;
 }
 #a4{
     top:100px;
-    left:250px;
+    left:230px;
 }
 #a5{
-    left:300px;
+    left:280px;
 }
 
