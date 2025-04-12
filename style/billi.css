@@ -133,7 +133,7 @@ div{
    width:300px;
  }
  #bday{
-   height:580vh;
+   height:4500px;
    width:700px;
    background-color: #81B622;
    border:5px double black;
@@ -365,14 +365,6 @@ a{
    height:140px;
    width:1300px;
    margin:25px;
-}
-@media (max-width:490px) {
-   body{font-size:smaller;}
-}
-*{
-   display: flex;
-  flex-direction: column;
-  gap: 20px;
 }
 
 
