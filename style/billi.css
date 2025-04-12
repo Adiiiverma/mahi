@@ -366,8 +366,13 @@ a{
    width:1300px;
    margin:25px;
 }
-@media (max-width:1231px) {
+@media (max-width:490px) {
    body{font-size:smaller;}
+}
+*{
+   display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
 
 
