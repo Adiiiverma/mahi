@@ -40,7 +40,7 @@ div{
    padding:0;
  }
  #bday{
-   height:6500px;
+   height:7700px;
    width:900px;
    background-color: #81B622;
    border:5px double #3D550C;
@@ -55,10 +55,10 @@ div{
 
 .m{
    display:block;
-   margin:50px;
-   padding:10px;
-   height:1200px;
-   width:780px;
+   margin:70px;
+   padding:20px;
+   height:1400px;
+   width:730px;
    border:3px solid black;
    border-radius:0%;
    box-shadow: 10px 10px 10px 10px black;
