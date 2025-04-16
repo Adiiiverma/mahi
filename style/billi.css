@@ -140,6 +140,33 @@ a{
    width:77%;
    margin:25px;
 }
+h3{
+   background-color:#A16AE8;
+   padding:5px;
+   border:3px double black;
+   box-shadow: 3px 3px 3px 3px black;
+
+
+}
+#end{
+   background-color:#603F8B;
+   width:80%;
+   height:30%;
+   border-radius: 0%;
+   border:5px solid black;
+   box-shadow: 4px 4px 4px 4px black;
+}
+#last{
+   background-color:#81B622;
+   width:95%;
+   height:40%;
+   border-radius: 0%;
+   border:5px solid black;
+   box-shadow: 4px 4px 4px 4px black;
+   font-size: xx-large;
+   font-family: "fantasy";
+}
+
 
 
 
